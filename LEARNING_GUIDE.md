@@ -1,6 +1,6 @@
 # Task Manager Project — Complete Learning Guide for Beginners
 
-This guide explains your Task Manager project so you can understand every concept, explain it in interviews, and extend it confidently. It is written for someone new to Django and backend development.
+This guide explains your Task Manager project so you can understand every concept,  and extend it confidently. It is written for someone new to Django and backend development.
 
 ---
 
