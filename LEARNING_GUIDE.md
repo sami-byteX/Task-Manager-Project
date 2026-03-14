@@ -455,4 +455,4 @@ If you wanted the **backend** to filter and sort, you would:
 
 ---
 
-You can use this guide to understand every part of your Task Manager project, explain it clearly in interviews, and extend it (e.g. add server-side filtering, auth, or a different frontend) with confidence.
+You can use this guide to understand every part of This Task Manager project
