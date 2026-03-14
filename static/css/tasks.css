@@ -1,0 +1,17 @@
+body {
+  min-height: 100vh;
+}
+
+.card {
+  border-radius: 0.75rem;
+}
+
+.table-hover tbody tr:hover {
+  background-color: rgba(13, 110, 253, 0.03);
+}
+
+#tasks-table td,
+#tasks-table th {
+  vertical-align: middle;
+}
+
